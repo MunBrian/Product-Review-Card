@@ -40,7 +40,7 @@ Learnt how to add media queries
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Brian Mungai](https://munbrian.github.io/Product-Review-Card/)
+- Frontend Mentor - [@MunBrian](https://www.frontendmentor.io/profile/MunBrian)
+- Twitter - [@Mungaiiz_b](https://www.twitter.com/Mungaiiz_b)
 
