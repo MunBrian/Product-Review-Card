@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product Preview Card](https://munbrian.github.io/Product-Review-Card/)
 
 ### Built with
 
@@ -40,7 +40,7 @@ Learnt how to add media queries
 
 ## Author
 
-- Website - [Brian Mungai](https://munbrian.github.io/Product-Review-Card/)
+- Website - [Brian Mungai]()
 - Frontend Mentor - [@MunBrian](https://www.frontendmentor.io/profile/MunBrian)
 - Twitter - [@Mungaiiz_b](https://www.twitter.com/Mungaiiz_b)
 
