@@ -34,7 +34,7 @@ Users should be able to:
 
 ### What I learned
 
--Learnt how to center a div
+-Learnt how to center a div/
 -Learnt how to add media queries
 
 
