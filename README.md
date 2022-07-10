@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://munbrian.github.io/Product-Review-Card/)
+- Live Site URL: [Product Preview Card](https://munbrian.github.io/Product-Review-Card/)
 
 ### Built with
 
